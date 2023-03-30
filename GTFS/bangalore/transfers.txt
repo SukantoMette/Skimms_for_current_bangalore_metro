@@ -1,0 +1,3 @@
+from_stop_id,to_stop_id,min_transfer_time
+P_10,G_14,120
+G_14,P_10,120

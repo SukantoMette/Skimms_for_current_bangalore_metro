@@ -1,0 +1,5 @@
+route_id,route_short_name,route_long_name,route_desc,route_type
+PB,Purple Baiyappanahalli,Purple Baiyappanahalli to Kengri,-1,1
+PK,Purple Kengri,Purple Kengri to Baiyappanahalli,-1,1
+GN,Green Nagasandra,Green Nagasandra to Silk Institute,-1,1
+GS,Green Silk Institute,Green Silk Institute to Nagasandra,-1,1

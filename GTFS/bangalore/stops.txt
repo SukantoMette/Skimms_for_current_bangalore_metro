@@ -1,0 +1,53 @@
+stop_id,stop_name,stop_lat,stop_lon
+P_1,Baiyappanahalli,12.990833,77.651944
+P_2,Swami Vivekananda Road,12.985833,77.645
+P_3,Indiranagar,12.978611,77.638889
+P_4,Halasuru,12.975556,77.626389
+P_5,Trinity,12.973056,77.616944
+P_6,Mahatma Gandhi Road,12.975556,77.606944
+P_7,Cubbon Park,12.981095,77.59686
+P_8,"Dr. B.R. Ambedkar station, Vidhana Soudha",12.979823,77.592745
+P_9,Sir M. Visveshwaraya,12.974104,77.584017
+P_10,"Nadaprabhu Kempegowda Stn., Majestic",12.975692,77.572836
+P_11,Krantivira Sangolli Rayanna Railway Station,12.975814,77.565708
+P_12,Magadi Road,12.975578,77.55543
+P_13,Sri Balagangadharanatha Swamiji Stn. Hosahalli,12.974178,77.545538
+P_14,Vijayanagar,12.970801,77.537285
+P_15,Attiguppe,12.961957,77.533582
+P_16,Deepanjali Nagar,12.952187,77.536939
+P_17,Mysore Road,12.946507,77.52978
+P_18,Nayandahalli,12.9414,77.5186
+P_19,Rajarajeshwari Nagar,12.936727,77.519582
+P_20,Jnanabharathi,12.935556,77.512019
+P_21,Pattanagere,12.924415,77.498256
+P_22,Kengeri Bus Terminal,12.914898,77.487593
+P_23,Kengeri,12.908,77.4765
+G_1,Nagasandra,13.048041,77.500091
+G_2,Dasarahalli,13.043567,77.512464
+G_3,Jalahalli,13.039491,77.519703
+G_4,Peenya Industry,13.036341,77.525465
+G_5,Peenya,13.032921,77.533297
+G_6,Goraguntepalya,13.02837,77.540753
+G_7,Yeshwanthpur,13.023181,77.549942
+G_8,Sandal Soap Factory,13.014707,77.553962
+G_9,Mahalakshmi,13.008217,77.548821
+G_10,Rajajinagar,13.000334,77.549701
+G_11,Kuvempu Road,12.998456,77.556951
+G_12,Srirampura,12.996508,77.563283
+G_13,Sampige Road,12.990508,77.570729
+G_14,"Nadaprabhu Kempegowda Stn., Majestic",12.975692,77.572836
+G_15,Chikkapete,12.966759,77.574782
+G_16,Krishna Rajendra Market,12.961353,77.574571
+G_17,National College,12.950548,77.573712
+G_18,Lalbagh,12.946355,77.58005
+G_19,Southend Circle,12.938237,77.580076
+G_20,Jayanagar,12.938237,77.580076
+G_21,Rashtreeya Vidyalaya Road,12.921458,77.580375
+G_22,Banashankari,12.915649,77.573631
+G_23,Jayaprakash Nagar,12.907299,77.573133
+G_24,Yelachenahalli,12.895983,77.570159
+G_25,Konanakunte Cross,12.884741,77.552898
+G_26,Doddakallasandra,12.884714,77.552846
+G_27,Vajarahalli,12.877455,77.544594
+G_28,Thalaghattapura,12.871678,77.538758
+G_29,Silk Institute,12.861858,77.530007
